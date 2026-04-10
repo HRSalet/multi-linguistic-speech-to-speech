@@ -12,7 +12,7 @@ st.set_page_config(page_title='Multi Translation',
                    page_icon='🌍', 
                    layout='wide', 
                    initial_sidebar_state='expanded')
-st.markdown("<h1 style='text-align: center; color: grey;'>Speech to Speech Translation</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: grey;'>Multi Linguistic Translation</h1>", unsafe_allow_html=True)
 st.markdown("<h5 style='text-align: center; color: grey;'>by Harsh Salet </h5>", unsafe_allow_html=True)
 
 st.markdown("""
